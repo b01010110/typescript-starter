@@ -1,2 +1,2 @@
-let qwer: string = "qwer";
-console.log(qwer);
+const qwer = 'qwer'
+console.log(qwer)
